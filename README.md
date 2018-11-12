@@ -9,6 +9,6 @@
 * Your score will increase by one as you reach other end.
 ## Game To Play 
 
-[Click Here](https://abm9838.github.io/ClassicArcadeGame/index.html) to enjoy the game. :+1;
+[Click Here](https://abm9838.github.io/ClassicArcadeGame/index.html) to enjoy the game. :joy:
 
 
